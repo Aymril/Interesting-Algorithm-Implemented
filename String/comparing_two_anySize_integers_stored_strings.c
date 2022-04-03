@@ -1,6 +1,6 @@
 /* 
 compareStrings function takes two C-style strings (character array) as parametes. Two integers can be stored in these array, and it's assumed to be. If there is 
-leading zeros, they'll be eliminated/deleted. Function return:
+leading zeros, they'll be eliminated/deleted. Function returns:
 
 1, when num1 > num2
 0, when num1 = num2
